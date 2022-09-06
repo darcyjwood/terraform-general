@@ -3,10 +3,10 @@
 terraform {
   cloud {}
   required_providers {
-    organization = "darcyjwoodorg"
+    organization = "xxxxx"
     
     workspaces {
-        name = "djw-dev"
+        name = "xxxxx"
     }
     
 required providers {
